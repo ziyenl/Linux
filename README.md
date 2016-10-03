@@ -1,8 +1,8 @@
 #Linux
 These are some of my self-study Linux notes.
 
-Topics |  
------------- | 
+Topics |   
+--- | 
 [Linux OS](https://github.com/ziyenl/linux/blob/master/linux_basic/linuxos.md) |  
 [Virtualization](https://github.com/ziyenl/linux/blob/master/linux_basic/virtualization.md) | 
 [Shell Configuration Files (.bashrc, .bash_profile)](https://github.com/ziyenl/linux/blob/master/linux_basic/shell.md) |
@@ -15,3 +15,6 @@ Topics |
 [Special Escape Character](https://github.com/ziyenl/linux/blob/master/linux_basic/special_character.md)|
 [Archiving & Compressing Files](https://github.com/ziyenl/linux/blob/master/linux_basic/archive_compress.md)|
 
+Scripts |
+--- |
+[Print Login Users](https://github.com/ziyenl/linux/blob/master/scripts/user_list.sh)|
