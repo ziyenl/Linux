@@ -46,3 +46,4 @@ command | description |
  ` find /etc -type l` | find all symbolics links in /etc folder |
  `find /etc -type c` | find all character device |
  `find /etc -size +10000c` | find all files in folder with file size greater than 10000 |
+ `find /etc -size +1M` | find all files in folder with file size greater than 1 MB |
