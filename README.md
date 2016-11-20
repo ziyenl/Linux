@@ -18,3 +18,4 @@ Topics |
 Scripts |
 --- |
 [Print Login Users](https://github.com/ziyenl/linux/blob/master/scripts/user_list.sh)|
+[Split On Slash](https://github.com/ziyenl/linux/blob/master/scripts/split_on_slash.sh)|
